@@ -25,5 +25,5 @@ jobs:
         uses: githubocto/flat@v2
         with:
           http_url: https://www.herault-data.fr/explore/dataset/parkingtpsreel_modele0/download/?format=csv&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B # The data to fetch every 15 minutes
-          downloaded_filename: mmm-parkings-live.json # The http_url gets saved and renamed in our repository as btc-price.json
+          downloaded_filename: mmm-parkings-live.csv # The http_url gets saved and renamed in our repository as btc-price.json
           postprocess: postprocess.js # A postprocessing file
