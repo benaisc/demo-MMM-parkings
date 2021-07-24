@@ -1,23 +1,23 @@
 DateTime;Nom du parking;Adresse;Nombre de places disponibles;Nombre de places totales;Geometry;Pourcentage de places disponibles;geo_point_2d
-2021-07-24T07:17:56+02:00;Antigone;boulevard d'Antigone;207;245;"{""type"": ""Point"", ""coordinates"": [3.88881893, 43.6087160591]}";84;43.6087160591,3.88881893
-2021-07-24T07:17:52+02:00;Corum;rue du Faubourg de Nimes;241;430;"{""type"": ""Point"", ""coordinates"": [3.88225773, 43.6138882091]}";56;43.6138882091,3.88225773
-2020-11-19T10:49:59+01:00;Charles de Gaulle;rue du Prado;28;100;"{""type"": ""Point"", ""coordinates"": [3.8977621, 43.6285421191]}";28;43.6285421191,3.8977621
-2021-07-24T07:14:57+02:00;Foch Préfecture;Place des Martyrs de la Resistance;346;540;"{""type"": ""Point"", ""coordinates"": [3.87657084, 43.6107491191]}";64;43.6107491191,3.87657084
-2021-07-24T07:18:52+02:00;Garcia Lorca;avenue de Palavas;305;400;"{""type"": ""Point"", ""coordinates"": [3.8907158, 43.5909850891]}";76;43.5909850891,3.8907158
-2021-07-24T07:18:04+02:00;Saint Roch;rue du Grand Saint Jean;234;656;"{""type"": ""Point"", ""coordinates"": [3.87855072, 43.6032914891]}";35;43.6032914891,3.87855072
-2021-07-24T07:23:10+02:00;Triangle;rue Foch;271;436;"{""type"": ""Point"", ""coordinates"": [3.88184418, 43.6092338391]}";62;43.6092338391,3.88184418
-2021-04-12T05:00:10+02:00;Circé Odysseum;rue Georges Melies;1345;1500;"{""type"": ""Point"", ""coordinates"": [3.9178495, 43.6049537691]}";89;43.6049537691,3.9178495
-2021-07-24T07:16:50+02:00;Sabines;avenue du Colonel Pavelet;207;450;"{""type"": ""Point"", ""coordinates"": [3.8602246, 43.5838326291]}";46;43.5838326291,3.8602246
-2021-07-24T07:14:58+02:00;Occitanie;avenue du Doyen Giraud;610;620;"{""type"": ""Point"", ""coordinates"": [3.84859796, 43.6345623191]}";98;43.6345623191,3.84859796
-2020-06-30T11:00:19+02:00;Viccarello;rue de la Crouzette;10;66;"{""type"": ""Point"", ""coordinates"": [3.8989332652, 43.6325802443]}";15;43.6325802443,3.8989332652
-2021-07-24T07:17:49+02:00;Comédie;place de la Comedie;517;800;"{""type"": ""Point"", ""coordinates"": [3.87976196, 43.6085609191]}";64;43.6085609191,3.87976196
-2021-07-24T07:18:15+02:00;Mosson;route de Lodève;419;428;"{""type"": ""Point"", ""coordinates"": [3.81966554, 43.6162371591]}";97;43.6162371591,3.81966554
-2021-07-24T07:14:51+02:00;Notre Dame de Sablassou;chemin du Pech Saint Peyre;219;365;"{""type"": ""Point"", ""coordinates"": [3.92229536, 43.6341919391]}";60;43.6341919391,3.92229536
-2021-07-24T07:14:54+02:00;Saint-Jean-le-Sec;avenue de Libria;203;318;"{""type"": ""Point"", ""coordinates"": [3.8379312, 43.5708222491]}";63;43.5708222491,3.8379312
-2021-07-24T07:15:57+02:00;Euromédecine;rue de Chambert;217;277;"{""type"": ""Point"", ""coordinates"": [3.82772365, 43.6389535891]}";78;43.6389535891,3.82772365
+2021-07-24T07:28:03+02:00;Saint Roch;rue du Grand Saint Jean;232;656;"{""type"": ""Point"", ""coordinates"": [3.87855072, 43.6032914891]}";35;43.6032914891,3.87855072
+2021-07-24T07:28:09+02:00;Pitot;rue du Carré du Roi;489;588;"{""type"": ""Point"", ""coordinates"": [3.87019117, 43.6122449391]}";83;43.6122449391,3.87019117
+2021-07-24T07:26:55+02:00;Sabines;avenue du Colonel Pavelet;206;450;"{""type"": ""Point"", ""coordinates"": [3.8602246, 43.5838326291]}";45;43.5838326291,3.8602246
+2021-07-24T07:24:53+02:00;Notre Dame de Sablassou;chemin du Pech Saint Peyre;219;365;"{""type"": ""Point"", ""coordinates"": [3.92229536, 43.6341919391]}";60;43.6341919391,3.92229536
+2021-07-24T07:24:56+02:00;Saint-Jean-le-Sec;avenue de Libria;203;318;"{""type"": ""Point"", ""coordinates"": [3.8379312, 43.5708222491]}";63;43.5708222491,3.8379312
 2021-04-12T05:00:10+02:00;GAUMONT-OUEST;;283;300;;94;
-2021-07-24T07:18:09+02:00;Pitot;rue du Carré du Roi;489;588;"{""type"": ""Point"", ""coordinates"": [3.87019117, 43.6122449391]}";83;43.6122449391,3.87019117
-2021-07-24T07:14:54+02:00;Arc de Triomphe;rue Foch;196;440;"{""type"": ""Point"", ""coordinates"": [3.87320075, 43.6110026691]}";44;43.6110026691,3.87320075
-2021-07-24T07:17:50+02:00;Gambetta;cours Gambetta;147;420;"{""type"": ""Point"", ""coordinates"": [3.87137436, 43.6069513791]}";35;43.6069513791,3.87137436
-2021-07-24T07:17:53+02:00;Europa;Rue Poséidon;265;580;"{""type"": ""Point"", ""coordinates"": [3.89253074, 43.6078497091]}";45;43.6078497091,3.89253074
+2021-07-24T07:26:51+02:00;Comédie;place de la Comedie;516;800;"{""type"": ""Point"", ""coordinates"": [3.87976196, 43.6085609191]}";64;43.6085609191,3.87976196
+2021-07-24T07:26:54+02:00;Europa;Rue Poséidon;265;580;"{""type"": ""Point"", ""coordinates"": [3.89253074, 43.6078497091]}";45;43.6078497091,3.89253074
+2021-07-24T07:25:59+02:00;Euromédecine;rue de Chambert;217;277;"{""type"": ""Point"", ""coordinates"": [3.82772365, 43.6389535891]}";78;43.6389535891,3.82772365
+2021-07-24T07:24:59+02:00;Occitanie;avenue du Doyen Giraud;610;620;"{""type"": ""Point"", ""coordinates"": [3.84859796, 43.6345623191]}";98;43.6345623191,3.84859796
 2021-04-12T05:00:10+02:00;Multiplexe;avenue Thomas Jefferson;106;109;"{""type"": ""Point"", ""coordinates"": [3.91411076, 43.6041524291]}";97;43.6041524291,3.91411076
+2021-07-24T07:26:57+02:00;Antigone;boulevard d'Antigone;207;245;"{""type"": ""Point"", ""coordinates"": [3.88881893, 43.6087160591]}";84;43.6087160591,3.88881893
+2021-04-12T05:00:10+02:00;Circé Odysseum;rue Georges Melies;1345;1500;"{""type"": ""Point"", ""coordinates"": [3.9178495, 43.6049537691]}";89;43.6049537691,3.9178495
+2021-07-24T07:28:13+02:00;Mosson;route de Lodève;419;428;"{""type"": ""Point"", ""coordinates"": [3.81966554, 43.6162371591]}";97;43.6162371591,3.81966554
+2020-06-30T11:00:19+02:00;Viccarello;rue de la Crouzette;10;66;"{""type"": ""Point"", ""coordinates"": [3.8989332652, 43.6325802443]}";15;43.6325802443,3.8989332652
+2021-07-24T07:26:59+02:00;Gambetta;cours Gambetta;148;420;"{""type"": ""Point"", ""coordinates"": [3.87137436, 43.6069513791]}";35;43.6069513791,3.87137436
+2021-07-24T07:28:54+02:00;Garcia Lorca;avenue de Palavas;305;400;"{""type"": ""Point"", ""coordinates"": [3.8907158, 43.5909850891]}";76;43.5909850891,3.8907158
+2020-11-19T10:49:59+01:00;Charles de Gaulle;rue du Prado;28;100;"{""type"": ""Point"", ""coordinates"": [3.8977621, 43.6285421191]}";28;43.6285421191,3.8977621
+2021-07-24T07:24:50+02:00;Arc de Triomphe;rue Foch;198;440;"{""type"": ""Point"", ""coordinates"": [3.87320075, 43.6110026691]}";45;43.6110026691,3.87320075
+2021-07-24T07:26:59+02:00;Corum;rue du Faubourg de Nimes;241;430;"{""type"": ""Point"", ""coordinates"": [3.88225773, 43.6138882091]}";56;43.6138882091,3.88225773
+2021-07-24T07:24:54+02:00;Foch Préfecture;Place des Martyrs de la Resistance;346;540;"{""type"": ""Point"", ""coordinates"": [3.87657084, 43.6107491191]}";64;43.6107491191,3.87657084
+2021-07-24T07:33:10+02:00;Triangle;rue Foch;269;436;"{""type"": ""Point"", ""coordinates"": [3.88184418, 43.6092338391]}";61;43.6092338391,3.88184418
