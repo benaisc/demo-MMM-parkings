@@ -1,11 +1,11 @@
 DateTime;Nom du parking;Adresse;Nombre de places disponibles;Nombre de places totales;Geometry;Pourcentage de places disponibles;geo_point_2d
-2021-08-02T01:23:50+02:00;Comédie;place de la Comedie;512;800;"{""type"": ""Point"", ""coordinates"": [3.87976196, 43.6085609191]}";64;43.6085609191,3.87976196
-2020-11-19T10:49:59+01:00;Charles de Gaulle;rue du Prado;28;100;"{""type"": ""Point"", ""coordinates"": [3.8977621, 43.6285421191]}";28;43.6285421191,3.8977621
-2021-08-02T01:23:51+02:00;Gambetta;cours Gambetta;159;420;"{""type"": ""Point"", ""coordinates"": [3.87137436, 43.6069513791]}";37;43.6069513791,3.87137436
-2021-08-02T01:25:10+02:00;Pitot;rue du Carré du Roi;108;588;"{""type"": ""Point"", ""coordinates"": [3.87019117, 43.6122449391]}";18;43.6122449391,3.87019117
+2021-04-12T05:00:10+02:00;Multiplexe;avenue Thomas Jefferson;106;109;"{""type"": ""Point"", ""coordinates"": [3.91411076, 43.6041524291]}";97;43.6041524291,3.91411076
 2021-08-02T01:21:58+02:00;Sabines;avenue du Colonel Pavelet;198;450;"{""type"": ""Point"", ""coordinates"": [3.8602246, 43.5838326291]}";44;43.5838326291,3.8602246
 2021-08-02T01:25:50+02:00;Euromédecine;rue de Chambert;215;277;"{""type"": ""Point"", ""coordinates"": [3.82772365, 43.6389535891]}";77;43.6389535891,3.82772365
-2021-04-12T05:00:10+02:00;Multiplexe;avenue Thomas Jefferson;106;109;"{""type"": ""Point"", ""coordinates"": [3.91411076, 43.6041524291]}";97;43.6041524291,3.91411076
+2021-08-02T01:25:10+02:00;Pitot;rue du Carré du Roi;108;588;"{""type"": ""Point"", ""coordinates"": [3.87019117, 43.6122449391]}";18;43.6122449391,3.87019117
+2021-08-02T01:23:51+02:00;Gambetta;cours Gambetta;159;420;"{""type"": ""Point"", ""coordinates"": [3.87137436, 43.6069513791]}";37;43.6069513791,3.87137436
+2021-08-02T01:23:50+02:00;Comédie;place de la Comedie;512;800;"{""type"": ""Point"", ""coordinates"": [3.87976196, 43.6085609191]}";64;43.6085609191,3.87976196
+2020-11-19T10:49:59+01:00;Charles de Gaulle;rue du Prado;28;100;"{""type"": ""Point"", ""coordinates"": [3.8977621, 43.6285421191]}";28;43.6285421191,3.8977621
 2021-08-02T01:24:56+02:00;Foch Préfecture;Place des Martyrs de la Resistance;357;540;"{""type"": ""Point"", ""coordinates"": [3.87657084, 43.6107491191]}";66;43.6107491191,3.87657084
 2021-08-02T01:26:02+02:00;Saint Roch;rue du Grand Saint Jean;275;656;"{""type"": ""Point"", ""coordinates"": [3.87855072, 43.6032914891]}";41;43.6032914891,3.87855072
 2021-08-02T01:23:52+02:00;Garcia Lorca;avenue de Palavas;298;400;"{""type"": ""Point"", ""coordinates"": [3.8907158, 43.5909850891]}";74;43.5909850891,3.8907158
