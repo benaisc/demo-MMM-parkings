@@ -1,23 +1,2 @@
-DateTime;Nom du parking;Adresse;Nombre de places disponibles;Nombre de places totales;Geometry;Pourcentage de places disponibles;geo_point_2d
-;;;;;;;
-;;;;;;;
-;;;;;;;
-2021-11-08T16:35:52+01:00;Antigone;boulevard d'Antigone;157;245;"{""type"": ""Point"", ""coordinates"": [3.88881893, 43.6087160591]}";64;43.6087160591,3.88881893
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
+DateTime;Nom du parking;Adresse;Nombre de places disponibles;Nombre de places totales;Geometry;proprietaire;Propriété;Pourcentage de places disponibles;geo_point_2d
+2021-11-08T16:44:58+01:00;Antigone;boulevard d'Antigone;158;245;"{""type"": ""Point"", ""coordinates"": [3.88881893, 43.6087160591]}";Ville de Montpellier;Public;64;43.6087160591,3.88881893
